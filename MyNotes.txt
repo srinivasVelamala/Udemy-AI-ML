@@ -1,0 +1,12 @@
+anaconda.com 
+After installation.
+goto anaconda prompt ->conda install pydotplus 
+proceed (y/n) y 
+install tensorflow
+> pip install tensorflow 
+Download the course materials: https://sundog-education.com/machine-learning 
+Download all of the scripts and sample data used in this course from this link:
+https://dw9ne0o7jcasn.cloudfront.net/ml/MLCourse.zip
+got download folder in cmd prompt
+F:\Udemy-AI-ML\Udemy-AI-ML\MLCourse>jupyter notebook
+
